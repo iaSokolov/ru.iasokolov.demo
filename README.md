@@ -18,5 +18,5 @@
 
 Язык: `Kotlin`\
 Фреймворк: `Spring Boot` `Spring JPA`\
-База данных: `H2, PostgreSQL`\
+База данных: `H2` `PostgreSQL`\
 Система сборки: `Gradle`
