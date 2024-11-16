@@ -1,22 +1,21 @@
-# Учебные, шаблонные и демонстрационные проекты
+# Educational, template and demonstration projects
+This repository contains a brief description of the training, demonstration and templates of the ru.iasokolov.demo group projects,
+as well as links to them.
 
-В данном репозитории находится краткое описание учебных, демонстрационных и шаблонов проектов группы ru.iasokolov.demo, 
-а также ссылки на них.
+## The Templates project
+This section presents template designs for various applications for a quick start.
 
-## Шаблоны проектов
-В данном разделе представлены проекты шаблонов различных приложений для быстрого старта.
+### Basic console application
+In the repository [kotlin-spring-console-application](https://github.com/iaSokolov/kotlin-spring-console-application ) a template for a simple console application is presented.
 
-### Базовое консольное приложение
-В репозитории [kotlin-spring-console-application](https://github.com/iaSokolov/kotlin-spring-console-application) представлен шаблон простого консольного приложения.
+Language: `Kotlin`\
+Framework: `Spring Boot`\
+The assembly system: `Gradle`
 
-Язык: `Kotlin`\
-Фреймворк: `Spring Boot`\
-Система сборки: `Gradle`
+### Working with various databases
+In the repository [kotlin-spring-jpa-db](https://github.com/iaSokolov/kotlin-spring-jpa-db ) a template for an application for working with personal databases is presented. 
 
-### Работа с различными базами данных
-В репозитории [kotlin-spring-jpa-db](https://github.com/iaSokolov/kotlin-spring-jpa-db) представлен шаблон приложения для работы сразличными базами данных. 
-
-Язык: `Kotlin`\
-Фреймворк: `Spring Boot` `Spring JPA`\
-База данных: `H2, PostgreSQL`\
-Система сборки: `Gradle`
+Language: `Kotlin`\
+Framework: `Spring Boot` `Spring JPA`\
+Data base: `H2` `PostgreSQL`\
+The assembly system: `Gradle`
