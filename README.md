@@ -20,3 +20,10 @@
 Фреймворк: `Spring Boot` `Spring JPA`\
 База данных: `H2` `PostgreSQL`\
 Система сборки: `Gradle`
+
+### Работа c Kafka
+В репозитории [kotlin-spring-kafka](https://github.com/iaSokolov/kotlin-spring-kafka) представлен шаблон работы с Kafka.
+
+Язык: `Kotlin`\
+Фреймворк: `Spring Boot` `Spring Kafka Client`\
+Система сборки: `Gradle`
